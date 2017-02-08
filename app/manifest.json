@@ -1,0 +1,6 @@
+{
+  "name": "busLive",
+  "short_name": "busLive",
+  "start_url": "/",
+  "display": "standalone"
+}

@@ -1,0 +1,535 @@
+{
+	"resultCode": 0,
+	"resultDescription": "Resultado de la operacion Correcta",
+	"resultValues": [{
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1199,
+		"distance": 0,
+		"distancePreviousStop": 0,
+		"name": "INTERCAMBIADOR CIUDAD LINEAL",
+		"latitude": 40.438156738528,
+		"longitude": -3.6387307165792
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 240,
+		"distance": 498,
+		"distancePreviousStop": 498,
+		"name": "HNOS.GARCIA NOBLEJAS-VITAL AZA",
+		"latitude": 40.434864962649,
+		"longitude": -3.6361010479589
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 242,
+		"distance": 793,
+		"distancePreviousStop": 295,
+		"name": "HNOS.GARCIA NOBLEJAS-ASCAO",
+		"latitude": 40.432522564407,
+		"longitude": -3.6344755890243
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 244,
+		"distance": 1193,
+		"distancePreviousStop": 400,
+		"name": "HNOS.GARCIA NOBLEJAS-LUIS CAMPOS",
+		"latitude": 40.429391265454,
+		"longitude": -3.632135505488
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 246,
+		"distance": 1410,
+		"distancePreviousStop": 217,
+		"name": "HNOS.GARCIA NOBLEJAS-CASTILLO DE AREVALO",
+		"latitude": 40.427677343032,
+		"longitude": -3.630893427558
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4708,
+		"distance": 1642,
+		"distancePreviousStop": 232,
+		"name": "HNOS.GARCIA NOBLEJAS-GANDHI",
+		"latitude": 40.425865006238,
+		"longitude": -3.6295231803248
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 250,
+		"distance": 1916,
+		"distancePreviousStop": 274,
+		"name": "HNOS.GARCIA NOBLEJAS-FCO.L.CABALLERO",
+		"latitude": 40.423674833358,
+		"longitude": -3.628050472689
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1200,
+		"distance": 2274,
+		"distancePreviousStop": 358,
+		"name": "ARCOS DE JALON-POBLADURA DEL VALLE",
+		"latitude": 40.422049409097,
+		"longitude": -3.6254302574419
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1202,
+		"distance": 2658,
+		"distancePreviousStop": 384,
+		"name": "ARCOS DE JALON-SAN ROMAN DEL VALLE",
+		"latitude": 40.420536848423,
+		"longitude": -3.621915358782
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1204,
+		"distance": 3043,
+		"distancePreviousStop": 385,
+		"name": "ARCOS DE JALON-AMPOSTA",
+		"latitude": 40.422664186159,
+		"longitude": -3.6183278590798
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1206,
+		"distance": 3322,
+		"distancePreviousStop": 279,
+		"name": "ARCOS DE JALON-ALBERICIA",
+		"latitude": 40.424344161981,
+		"longitude": -3.6158323613435
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 5650,
+		"distance": 3716,
+		"distancePreviousStop": 394,
+		"name": "ARCOS DE JALON-AV.CANILLEJAS VICALVARO",
+		"latitude": 40.427071697509,
+		"longitude": -3.6128511325078
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4195,
+		"distance": 4209,
+		"distancePreviousStop": 493,
+		"name": "AV.CANILLEJAS A VICALVARO-RUSIA",
+		"latitude": 40.423843757928,
+		"longitude": -3.611666601749
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4197,
+		"distance": 4462,
+		"distancePreviousStop": 253,
+		"name": "AV.CANILLEJAS A VICALVARO-AQUITANIA",
+		"latitude": 40.421565412462,
+		"longitude": -3.6114927245405
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1210,
+		"distance": 4700,
+		"distancePreviousStop": 238,
+		"name": "AV.CANILLEJAS A VICALVARO-TOSCANA",
+		"latitude": 40.419440896217,
+		"longitude": -3.6111905919394
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4612,
+		"distance": 5016,
+		"distancePreviousStop": 316,
+		"name": "AV.CANILLEJAS A VICALVARO-M40",
+		"latitude": 40.416785248512,
+		"longitude": -3.6108129540823
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 3758,
+		"distance": 5940,
+		"distancePreviousStop": 924,
+		"name": "PZA.DE LA VICALVARADA",
+		"latitude": 40.409284122704,
+		"longitude": -3.6101794233808
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1213,
+		"distance": 6082,
+		"distancePreviousStop": 142,
+		"name": "P\u00ba ARTILLEROS-CALAHORRA",
+		"latitude": 40.408124320533,
+		"longitude": -3.6097328907059
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1076,
+		"distance": 6260,
+		"distancePreviousStop": 178,
+		"name": "CALAHORRA N\u00ba 12",
+		"latitude": 40.407765277907,
+		"longitude": -3.6111898472725
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1066,
+		"distance": 6596,
+		"distancePreviousStop": 336,
+		"name": "AV.DAROCA-CALAHORRA",
+		"latitude": 40.406223586497,
+		"longitude": -3.6131098223177
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1067,
+		"distance": 6908,
+		"distancePreviousStop": 312,
+		"name": "AV.DAROCA N\u00ba 338",
+		"latitude": 40.404337123052,
+		"longitude": -3.6103822270431
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4546,
+		"distance": 7079,
+		"distancePreviousStop": 171,
+		"name": "SAN CIPRIANO-P\u00ba ARTILLEROS",
+		"latitude": 40.404049840833,
+		"longitude": -3.6084823053512
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4552,
+		"distance": 7411,
+		"distancePreviousStop": 332,
+		"name": "SAN CIPRIANO-JARDIN DE LA DUQUESA",
+		"latitude": 40.403872175344,
+		"longitude": -3.604568215797
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 4555,
+		"distance": 7627,
+		"distancePreviousStop": 216,
+		"name": "SAN CIPRIANO-CA\u00d1OS DE SAN PEDRO",
+		"latitude": 40.403777292257,
+		"longitude": -3.6020336795845
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 5321,
+		"distance": 7874,
+		"distancePreviousStop": 247,
+		"name": "SAN CIPRIANO-MINERVA",
+		"latitude": 40.403269107677,
+		"longitude": -3.599273934863
+	}, {
+		"line": 4,
+		"secDetail": 10,
+		"orderDetail": "1",
+		"node": 1073,
+		"distance": 8319,
+		"distancePreviousStop": 445,
+		"name": "PUERTA DE ARGANDA",
+		"latitude": 40.401222298044,
+		"longitude": -3.5961306275524
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1073,
+		"distance": 0,
+		"distancePreviousStop": 0,
+		"name": "PUERTA DE ARGANDA",
+		"latitude": 40.401222298044,
+		"longitude": -3.5961306275524
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 5322,
+		"distance": 372,
+		"distancePreviousStop": 372,
+		"name": "SAN CIPRIANO-MINERVA",
+		"latitude": 40.403431768877,
+		"longitude": -3.5991775658002
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4556,
+		"distance": 635,
+		"distancePreviousStop": 263,
+		"name": "SAN CIPRIANO-CA\u00d1OS DE SAN PEDRO",
+		"latitude": 40.404019603065,
+		"longitude": -3.6022126079823
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1069,
+		"distance": 845,
+		"distancePreviousStop": 210,
+		"name": "SAN CIPRIANO-JARDIN DE LA DUQUESA",
+		"latitude": 40.404132869069,
+		"longitude": -3.6046766101275
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1074,
+		"distance": 1169,
+		"distancePreviousStop": 324,
+		"name": "SAN CIPRIANO-P\u00ba ARTILLEROS",
+		"latitude": 40.404319973482,
+		"longitude": -3.6085083072843
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4647,
+		"distance": 1364,
+		"distancePreviousStop": 195,
+		"name": "AV.DAROCA-P\u00ba ARTILLEROS",
+		"latitude": 40.404606819689,
+		"longitude": -3.6104907258966
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4549,
+		"distance": 1676,
+		"distancePreviousStop": 312,
+		"name": "AV.DAROCA-CALAHORRA",
+		"latitude": 40.406565848713,
+		"longitude": -3.613124713174
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1065,
+		"distance": 1859,
+		"distancePreviousStop": 183,
+		"name": "AV.DAROCA-CASALARREINA",
+		"latitude": 40.407728824998,
+		"longitude": -3.6146673530288
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1214,
+		"distance": 2044,
+		"distancePreviousStop": 185,
+		"name": "CASALARREINA-AV.DAROCA",
+		"latitude": 40.408652078746,
+		"longitude": -3.6138507720456
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1215,
+		"distance": 2338,
+		"distancePreviousStop": 294,
+		"name": "CASALARREINA-P\u00ba ARTILLEROS",
+		"latitude": 40.409308286102,
+		"longitude": -3.6107217771209
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4613,
+		"distance": 3413,
+		"distancePreviousStop": 1075,
+		"name": "AV.CANILLEJAS A VICALVARO-M40",
+		"latitude": 40.416849304391,
+		"longitude": -3.6106249434555
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1211,
+		"distance": 3734,
+		"distancePreviousStop": 321,
+		"name": "AV.CANILLEJAS A VICALVARO-TOSCANA",
+		"latitude": 40.419532538894,
+		"longitude": -3.6108967378507
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4611,
+		"distance": 3971,
+		"distancePreviousStop": 237,
+		"name": "AV.CANILLEJAS A VICALVARO-SUECIA",
+		"latitude": 40.421657180564,
+		"longitude": -3.6111752873721
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4196,
+		"distance": 4221,
+		"distancePreviousStop": 250,
+		"name": "AV.CANILLEJAS A VICALVARO-RUSIA",
+		"latitude": 40.42390837632,
+		"longitude": -3.6113724845421
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 4192,
+		"distance": 4785,
+		"distancePreviousStop": 564,
+		"name": "ARCOS DE JALON-AV.CANILLEJAS VICALVARO",
+		"latitude": 40.427188120715,
+		"longitude": -3.6129818647107
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1207,
+		"distance": 5177,
+		"distancePreviousStop": 392,
+		"name": "ARCOS DE JALON-ALBERICIA",
+		"latitude": 40.42452332742,
+		"longitude": -3.61602260673
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1205,
+		"distance": 5475,
+		"distancePreviousStop": 298,
+		"name": "ARCOS DE JALON-AMPOSTA",
+		"latitude": 40.422734740873,
+		"longitude": -3.6186114146082
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1203,
+		"distance": 5834,
+		"distancePreviousStop": 359,
+		"name": "ARCOS DE JALON-SAN ROMAN DEL VALLE",
+		"latitude": 40.420770752578,
+		"longitude": -3.6219764506193
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1201,
+		"distance": 6218,
+		"distancePreviousStop": 384,
+		"name": "ARCOS DE JALON-POBLADURA DEL VALLE",
+		"latitude": 40.422141342801,
+		"longitude": -3.6250892630389
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 252,
+		"distance": 6570,
+		"distancePreviousStop": 352,
+		"name": "HNOS.GARCIA NOBLEJAS-AV.ARCENTALES",
+		"latitude": 40.423893725608,
+		"longitude": -3.6275574087017
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 248,
+		"distance": 6893,
+		"distancePreviousStop": 323,
+		"name": "HNOS.GARCIA NOBLEJAS-CASTILLO UCLES",
+		"latitude": 40.426378438593,
+		"longitude": -3.6295373982624
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 247,
+		"distance": 7102,
+		"distancePreviousStop": 209,
+		"name": "HNOS.GARCIA NOBLEJAS-CASTILLO DE AREVALO",
+		"latitude": 40.428020501512,
+		"longitude": -3.6307433796682
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 245,
+		"distance": 7275,
+		"distancePreviousStop": 173,
+		"name": "HNOS.GARCIA NOBLEJAS-VALDECANILLAS",
+		"latitude": 40.4294301344,
+		"longitude": -3.6316171508418
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 243,
+		"distance": 7661,
+		"distancePreviousStop": 386,
+		"name": "HNOS.GARCIA NOBLEJAS-JULIAN CAMARILLO",
+		"latitude": 40.432472199645,
+		"longitude": -3.6338031090357
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 241,
+		"distance": 7989,
+		"distancePreviousStop": 328,
+		"name": "HNOS.GARCIA NOBLEJAS-VITAL AZA",
+		"latitude": 40.435028995699,
+		"longitude": -3.6357606827963
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 239,
+		"distance": 8286,
+		"distancePreviousStop": 297,
+		"name": "HNOS.GARCIA NOBLEJAS-ALCALA",
+		"latitude": 40.437380187495,
+		"longitude": -3.6374217021624
+	}, {
+		"line": 4,
+		"secDetail": 20,
+		"orderDetail": "1",
+		"node": 1199,
+		"distance": 8456,
+		"distancePreviousStop": 170,
+		"name": "INTERCAMBIADOR CIUDAD LINEAL",
+		"latitude": 40.438156738528,
+		"longitude": -3.6387307165792
+	}]
+}

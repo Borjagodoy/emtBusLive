@@ -1,0 +1,78 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../../bower_components/google-map/google-map.html">
+<link rel="import" href="../../bower_components/polymerfire/firebase-app.html">
+<link rel="import" href="../../bower_components/polymerfire/firebase-query.html">
+<link rel="import" href="../../bower_components/paper-dropdown-menu/paper-dropdown-menu.html">
+<link rel="import" href="../../bower_components/paper-item/paper-item.html">
+<link rel="import" href="../../bower_components/paper-listbox/paper-listbox.html">
+
+<dom-module id="busLive-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+      google-map {
+        height: 600px;
+    }
+    </style>
+    <firebase-app
+    name="bus"
+        auth-domain="conjuntaapp.firebaseapp.com"
+        database-url="https://conjuntaapp.firebaseio.com"
+        api-key="AIzaSyD9wRqDg8FSIibOA4eGU9ajYjltwdUPmVw">
+    </firebase-app>
+    <firebase-query
+      id="query"
+      app-name="bus"
+      path="/bus/[[uid]]"
+      data="{{buses}}">
+    </firebase-query>
+    <paper-dropdown-menu label="Line">
+      <paper-listbox class="dropdown-content" selected="{{busSelected}}" valueattr="value">
+        <paper-item value="1">1</paper-item>
+        <paper-item value="2">2</paper-item>
+        <paper-item value="3">3</paper-item>
+        <paper-item value="4">4</paper-item>
+        <paper-item value="5">5</paper-item>
+        <paper-item value="6">6</paper-item>
+        <paper-item value="130">130</paper-item>
+      </paper-listbox>
+    </paper-dropdown-menu>
+    <google-map fit-to-marker api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc" latitude="40.4168" longitude="-3.7038
+">
+      <!--<template is="dom-repeat" items="{{buses}}" as="note">
+      -->  <template is="dom-repeat" items="{{buses}}" as="bus">
+          <google-map-marker latitude="{{bus.lat}}" longitude="{{bus.logn}}" draggable="true"></google-map-marker>
+        </template>
+      <!--</template>-->
+    </google-map>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'busLive-app',
+
+      properties: {
+        buses: {
+          type: Array
+        },
+        busSelected: {
+          type: String,
+          value: '0',
+          observer: 'selectStation'
+        },
+      },
+      _objectToArray: function(obj) {
+         var arr = Object.keys(obj).map(function (key) { return obj[key]; });
+         console.log(obj);
+         return arr;
+      },
+      selectStation: function() {
+        console.log(this.uid);
+        this.set('uid', this.busSelected+1)
+      }
+    });
+  </script>
+</dom-module>
