@@ -13,6 +13,8 @@
   "license": "GPL-3.0",
   "dependencies": {
     "emtmad-bus-times-node": "0.0.1",
-    "firebase": "3.6.9"
+    "firebase": "3.6.9",
+    "lodash": "4.17.4",
+    "node-emtmad-bus-promise": "1.1.0"
   }
 }
